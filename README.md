@@ -1,1 +1,1 @@
-# ai
+# STUDYING AI
